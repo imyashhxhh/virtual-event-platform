@@ -49,7 +49,8 @@ New features are being added frequently, and some components may be incomplete o
 
 ## 📸 Screenshots
 
-![Dashboard)](https://github.com/user-attachments/assets/e8eaff4f-d715-4c4d-aa77-f0c9866d64a1)
+![Homepage]![Screenshot 2025-04-26 010536](https://github.com/user-attachments/assets/223a5b53-52a5-4023-83f6-d218be175026)
+
 
 ---
 
